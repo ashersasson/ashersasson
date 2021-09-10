@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**ashersasson/ashersasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+## Prevous Coding Experiance 
+My previous coding experience contains creating a discord bot using python that can be found [here](https://replit.com/@asherthethrashe/Alpha-Gaming-Factoid-bot) and contributing to another discord bot, i just started learning how to code last spring so I am slowly building me knowledge.  
+## Why I'm taking this class
+I am taking this class because coding has always interested me and I want to learn more about it. I also believe that coding will be an essential skill for later in life.
+## Other Interests
+Some other interests I have include
+* Water Polo
+* Diving
+* Tech Theater
+* Climbing and ropes activities
+* Technology
+## Goals for this Class
+Some goals i have for this year are to learn a new language, maybe javascript, delve deaper into how to code with python for applications other than a discord bot, and possibly how to build a website for my bot.
